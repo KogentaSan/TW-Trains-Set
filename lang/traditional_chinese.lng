@@ -141,33 +141,33 @@ STR_SUFFIX_TRA        :{WHITE}TRA 台鐵局
 
 # 命名列車
 
-STR_SUFFIX_ORDINARY         :{GOLD}"普快車"{BLACK}
-STR_SUFFIX_BREEZYBLUE       :{GOLD}"藍皮解憂號觀光列車"{BLACK}
-STR_SUFFIX_EXPRESS          :{GOLD}"特快列車"{BLACK}
-STR_SUFFIX_ENGINEER_SLEEPER :{GOLD}"工程宿營車"{BLACK}
-STR_SUFFIX_KUANKUANG        :{GOLD}"觀光號"{BLACK}
-STR_SUFFIX_CHUKUANG         :{GOLD}"莒光號"{BLACK}
-STR_SUFFIX_FUHSING          :{GOLD}"復興號"{BLACK}
-STR_SUFFIX_KUANGHWA         :{GOLD}"光華號"{BLACK}
-STR_SUFFIX_TZECHIANG        :{GOLD}"自強號"{BLACK}
-STR_SUFFIX_MINGRI           :{GOLD}"鳴日號觀光列車"{BLACK}
-STR_SUFFIX_HAIFUNG          :{GOLD}"海風號觀光列車"{BLACK}
-STR_SUFFIX_SHANLAN          :{GOLD}"山嵐號觀光列車"{BLACK}
-STR_SUFFIX_TOUR             :{GOLD}"觀光列車"{BLACK}
+STR_SUFFIX_ORDINARY         :{GOLD} 「普快車」 {BLACK}
+STR_SUFFIX_BREEZYBLUE       :{GOLD} 「藍皮解憂號觀光列車」 {BLACK}
+STR_SUFFIX_EXPRESS          :{GOLD} 「特快列車」 {BLACK}
+STR_SUFFIX_ENGINEER_SLEEPER :{GOLD} 「工程宿營車」 {BLACK}
+STR_SUFFIX_KUANKUANG        :{GOLD} 「觀光號」 {BLACK}
+STR_SUFFIX_CHUKUANG         :{GOLD} 「莒光號」 {BLACK}
+STR_SUFFIX_FUHSING          :{GOLD} 「復興號」 {BLACK}
+STR_SUFFIX_KUANGHWA         :{GOLD} 「光華號」 {BLACK}
+STR_SUFFIX_TZECHIANG        :{GOLD} 「自強號」 {BLACK}
+STR_SUFFIX_MINGRI           :{GOLD} 「鳴日號觀光列車」 {BLACK}
+STR_SUFFIX_HAIFUNG          :{GOLD} 「海風號觀光列車」 {BLACK}
+STR_SUFFIX_SHANLAN          :{GOLD} 「山嵐號觀光列車」 {BLACK}
+STR_SUFFIX_TOUR             :{GOLD} 「觀光列車」 {BLACK}
 
 ###############
 # 新模組化字串 #
 ###############
 
-STR_SUFFIX_YEARDEP	:{GREEN}年份相關{BLACK}
-STR_SUFFIX_RANDOM	  :{GREEN}隨機{BLACK}
-STR_SUFFIX_CC		    :{GREEN}公司顏色{BLACK}
-STR_SUFFIX_AUTOFORM	:{GREEN}自動編組{BLACK}
+STR_SUFFIX_YEARDEP	:{GREEN} 年份相關 {BLACK}
+STR_SUFFIX_RANDOM	  :{GREEN} 隨機 {BLACK}
+STR_SUFFIX_CC		    :{GREEN} 公司顏色 {BLACK}
+STR_SUFFIX_AUTOFORM	:{GREEN} 自動編組 {BLACK}
 
-STR_REFIT_YEARDEP	  :{BLACK} - {GREEN}年份相關{BLACK}
-STR_REFIT_CC		    :{BLACK} - {GREEN}公司顏色{BLACK}
-STR_REFIT_RANDOM	  :{BLACK} - {GREEN}隨機{BLACK}
-STR_REFIT_AUTOFORM	:{BLACK} - {GREEN}自動編組{BLACK}
+STR_REFIT_YEARDEP	  :{BLACK} - {GREEN} 年份相關 {BLACK}
+STR_REFIT_CC		    :{BLACK} - {GREEN} 公司顏色 {BLACK}
+STR_REFIT_RANDOM	  :{BLACK} - {GREEN} 隨機 {BLACK}
+STR_REFIT_AUTOFORM	:{BLACK} - {GREEN} 自動編組 {BLACK}
 
 
 STR_REFIT_AUTOYEAR	: {GREEN}隨機 {BLACK} -  自動更新
@@ -180,84 +180,84 @@ STR_REFIT_YEARFORM	: {GREEN}自動編組 {BLACK} -  年份相關
 # 描述文字 #
 # ##########
 
-STR_DESC_POWER_STEAM 		  :{BLACK}發動機類型: {GOLD}蒸氣{}
-STR_DESC_POWER_DE 		    :{BLACK}發動機類型: {GOLD}柴油電力傳動{}
-STR_DESC_POWER_DH    	  	:{BLACK}發動機類型: {GOLD}柴油液體傳動{}
-STR_DESC_POWER_HYBRID 		:{BLACK}發動機類型: {GOLD}柴電混合動力{}
-STR_DESC_POWER_BATT		    :{BLACK}發動機類型: {GOLD}電池電動{}
-STR_DESC_POWER_AC20		    :{BLACK}發動機類型: {GOLD}電力 - {RED} 交流電 (20kV){}
-STR_DESC_POWER_DC15		    :{BLACK}發動機類型: {GOLD}電力 - {BLUE} 直流電 (1500V){}
-STR_DESC_POWER_MS20		    :{BLACK}發動機類型: {GOLD}電聯 - {RED} 交流電 (20kV) {WHITE}/ {BLUE}直流電 (1500V){}
-STR_DESC_POWER_MS25 		  :{BLACK}發動機類型: {GOLD}電力 - {RED} 交流電 (20kV) {WHITE}/ {PURPLE} 交流電 (25kV){}
+STR_DESC_POWER_STEAM 		  :{BLACK}發動機類型： {GOLD}蒸氣{}
+STR_DESC_POWER_DE 		    :{BLACK}發動機類型： {GOLD}柴油電力傳動{}
+STR_DESC_POWER_DH    	  	:{BLACK}發動機類型： {GOLD}柴油液體傳動{}
+STR_DESC_POWER_HYBRID 		:{BLACK}發動機類型： {GOLD}柴電混合動力{}
+STR_DESC_POWER_BATT		    :{BLACK}發動機類型： {GOLD}電池電動{}
+STR_DESC_POWER_AC20		    :{BLACK}發動機類型： {GOLD}電力 - {RED} 交流電 (20kV){}
+STR_DESC_POWER_DC15		    :{BLACK}發動機類型： {GOLD}電力 - {BLUE} 直流電 (1500V){}
+STR_DESC_POWER_MS20		    :{BLACK}發動機類型： {GOLD}電聯 - {RED} 交流電 (20kV) {WHITE}/ {BLUE} 直流電 (1500V){}
+STR_DESC_POWER_MS25 		  :{BLACK}發動機類型： {GOLD}電力 - {RED} 交流電 (20kV) {WHITE}/ {PURPLE} 交流電 (25kV){}
 
-STR_TILT                	:{BLACK}傾斜: {SILVER}是{}
+STR_TILT                	:{BLACK}傾斜： {SILVER}是{}
 
-STR_DESC_NARROWGAUGE		  :{BLACK}軌距:{GOLD} 窄軌 {SILVER}(1,067mm){}
-STR_DESC_STDGAUGE	 	      :{BLACK}軌距:{GOLD} 標準 (1,435mm){}
+STR_DESC_NARROWGAUGE		  :{BLACK}軌距： {GOLD} 窄軌 {SILVER}(1,067mm){}
+STR_DESC_STDGAUGE	 	      :{BLACK}軌距： {GOLD} 標準 (1,435mm){}
 
-STR_DESC_WHEELS_1B1    		:{BLACK}車輪配置:{GOLD} 1-B-1 / 2-4-2{}
-STR_DESC_WHEELS_1C     		:{BLACK}車輪配置:{GOLD} 1-C / 2-6-0{}
+STR_DESC_WHEELS_1B1    		:{BLACK}車輪配置： {GOLD} 1-B-1 / 2-4-2{}
+STR_DESC_WHEELS_1C     		:{BLACK}車輪配置： {GOLD} 1-C / 2-6-0{}
 
-STR_DESC_USAGE_GP		      :{BLACK}用途: {SILVER}一般用途{}
-STR_DESC_USAGE_LF		      :{BLACK}用途: {SILVER}輕型貨運{}
-STR_DESC_USAGE_SHG		    :{BLACK}用途: {SILVER}調車機車/ 通用型{}
-STR_DESC_USAGE_SH		      :{BLACK}用途: {SILVER}調車機車{}
-STR_DESC_USAGE_HF		      :{BLACK}用途: {SILVER}重型貨運{}
-STR_DESC_USAGE_P		      :{BLACK}用途: {SILVER}乘客{}
-STR_DESC_USAGE_XP		      :{BLACK}用途: {SILVER}觀光旅客{}
-STR_DESC_USAGE_EP		      :{BLACK}用途: {SILVER}特快客運{}
-STR_DESC_USAGE_EF		      :{BLACK}用途: {SILVER}特快客運 / 重型貨運{}
-STR_DESC_USAGE_FF		      :{BLACK}用途: {SILVER}特快客運 / 快速貨運{}
-STR_DESC_USAGE_BANK		    :{BLACK}用途: {SILVER}銀行家 / 毒販{}
-STR_DESC_USAGE_PROTO	    :{BLACK}用途: {SILVER}原型{}
-STR_DESC_USAGE_CONCEPT	  :{BLACK}用途: {SILVER}概念 - 從未製造{}
+STR_DESC_USAGE_GP		      :{BLACK}用途： {SILVER} 一般用途 {}
+STR_DESC_USAGE_LF		      :{BLACK}用途： {SILVER} 輕型貨運 {}
+STR_DESC_USAGE_SHG		    :{BLACK}用途： {SILVER} 調車機車/ 通用型 {}
+STR_DESC_USAGE_SH		      :{BLACK}用途： {SILVER} 調車機車 {}
+STR_DESC_USAGE_HF		      :{BLACK}用途： {SILVER} 重型貨運 {}
+STR_DESC_USAGE_P		      :{BLACK}用途： {SILVER} 乘客 {}
+STR_DESC_USAGE_XP		      :{BLACK}用途： {SILVER} 觀光旅客 {}
+STR_DESC_USAGE_EP		      :{BLACK}用途： {SILVER} 特快客運 {}
+STR_DESC_USAGE_EF		      :{BLACK}用途： {SILVER} 特快客運 / 重型貨運 {}
+STR_DESC_USAGE_FF		      :{BLACK}用途： {SILVER} 特快客運 / 快速貨運 {}
+STR_DESC_USAGE_BANK		    :{BLACK}用途： {SILVER} 銀行家 / 毒販 {}
+STR_DESC_USAGE_PROTO	    :{BLACK}用途： {SILVER} 原型 {}
+STR_DESC_USAGE_CONCEPT	  :{BLACK}用途： {SILVER} 概念 - 從未製造 {}
 
-STR_DESC_USAGE_PAX_LOC	  :{BLACK}用途: {SILVER}區間車{}
-STR_DESC_USAGE_PAX_EXP	  :{BLACK}用途: {SILVER}區間 / 特快列車{}
-STR_DESC_USAGE_PAX_SLP	  :{BLACK}用途: {SILVER}特快列車 / 夜間列車{}
-STR_DESC_USAGE_PAX_LEX	  :{BLACK}用途: {SILVER}豪華快車{}
-STR_DESC_USAGE_PAX_LUX	  :{BLACK}用途: {SILVER}豪華臥鋪車箱{}
-STR_DESC_USAGE_PAX_JOY	  :{BLACK}用途: {SILVER}豪華包箱 / 遊覽團體{}
+STR_DESC_USAGE_PAX_LOC	  :{BLACK}用途： {SILVER} 區間車 {}
+STR_DESC_USAGE_PAX_EXP	  :{BLACK}用途： {SILVER} 區間 / 特快列車 {}
+STR_DESC_USAGE_PAX_SLP	  :{BLACK}用途： {SILVER} 特快列車 / 夜間列車 {}
+STR_DESC_USAGE_PAX_LEX	  :{BLACK}用途： {SILVER} 豪華快車 {}
+STR_DESC_USAGE_PAX_LUX	  :{BLACK}用途： {SILVER} 豪華臥鋪車箱 {}
+STR_DESC_USAGE_PAX_JOY	  :{BLACK}用途： {SILVER} 豪華包箱 / 遊覽團體 {}
 
-STR_USE_LTDEXPRESS        :{BLACK}用途: {SILVER}特急列車{}
+STR_USE_LTDEXPRESS        :{BLACK}用途： {SILVER} 特急列車 {}
 
-STR_DESC_USAGE_PAX_TOKAIDO	:{BLACK}用途: {SILVER}特快列車 - {GREEN}使用了 EF58 新型, 東海道塗裝{}
+STR_DESC_USAGE_PAX_TOKAIDO	:{BLACK}用途： {SILVER} 特快列車 - {GREEN} 使用了 EF58 新型, 東海道塗裝 {}
 
-STR_DESC_USAGE_MAIL_LUG	:{BLACK}用途: {SILVER}行李 / 郵件{}
-STR_DESC_USAGE_MAIL_RPO	:{BLACK}用途: {SILVER}旅遊郵局{}
-STR_DESC_USAGE_MAIL_EXP	:{BLACK}用途: {SILVER}行李 / 郵件 /  快遞貨物{}
-STR_DESC_USAGE_MAIL_EXF	:{BLACK}用途: {SILVER}郵件 / 快遞貨物{}
-STR_DESC_USAGE_MAIL_VAL	:{BLACK}用途: {SILVER}貴重物品 / 快遞貨物{}
+STR_DESC_USAGE_MAIL_LUG	:{BLACK}用途： {SILVER} 行李 / 郵件 {}
+STR_DESC_USAGE_MAIL_RPO	:{BLACK}用途： {SILVER} 旅遊郵局 {}
+STR_DESC_USAGE_MAIL_EXP	:{BLACK}用途： {SILVER} 行李 / 郵件 /  快遞貨物 {}
+STR_DESC_USAGE_MAIL_EXF	:{BLACK}用途： {SILVER} 郵件 / 快遞貨物 {}
+STR_DESC_USAGE_MAIL_VAL	:{BLACK}用途： {SILVER} 貴重物品 / 快遞貨物 {}
 
-STR_DESC_USAGE_FRT_STEL	:{BLACK}用途: {SILVER}金屬製品 - 線圈 / 金屬條 / 金屬板{}
-STR_DESC_USAGE_FRT_HVY	:{BLACK}用途: {SILVER}超大重型貨物 - 變壓器{}
-STR_DESC_USAGE_FRT_CAR	:{BLACK}用途: {SILVER}車輛 - 汽車運輸{}
-STR_DESC_USAGE_FRT_CARR	:{BLACK}用途: {SILVER}車輛 / 一般貨物 - 貨櫃{}
-STR_DESC_USAGE_FRT_DMT	:{BLACK}用途: {SILVER}快遞貨物 - 卡車拖車{}
+STR_DESC_USAGE_FRT_STEL	:{BLACK}用途： {SILVER} 金屬製品 - 線圈 / 金屬條 / 金屬板 {}
+STR_DESC_USAGE_FRT_HVY	:{BLACK}用途： {SILVER} 超大重型貨物 - 變壓器 {}
+STR_DESC_USAGE_FRT_CAR	:{BLACK}用途： {SILVER} 車輛 - 汽車運輸 {}
+STR_DESC_USAGE_FRT_CARR	:{BLACK}用途： {SILVER} 車輛 / 一般貨物 - 貨櫃 {}
+STR_DESC_USAGE_FRT_DMT	:{BLACK}用途： {SILVER} 快遞貨物 - 卡車拖車 {}
 
-STR_DESC_USAGE_FRT_CONT	:{BLACK}用途: {SILVER}一般 / 快遞貨物 - 貨櫃{}
-STR_DESC_USAGE_FRT_BOX	:{BLACK}用途: {SILVER}一般 / 快遞貨物{}
-STR_DESC_USAGE_FRT_FLAT	:{BLACK}用途: {SILVER}一般 / 長貨{}
-STR_DESC_USAGE_FRT_EXP	:{BLACK}用途: {SILVER}快遞貨物{}
-STR_DESC_USAGE_FRT_LVST	:{BLACK}用途: {SILVER}家畜 - {GREEN}延長貨物時效{}
-STR_DESC_USAGE_FRT_REEF	:{BLACK}用途: {SILVER}冷藏貨物 - {GREEN}延長貨物時效{}
-STR_DESC_USAGE_FRT_OPEN	:{BLACK}用途: {SILVER}一般 / 散裝貨{}
-STR_DESC_USAGE_FRT_BULK	:{BLACK}用途: {SILVER}散裝貨{}
-STR_DESC_USAGE_FRT_COV	:{BLACK}用途: {SILVER}粉狀散裝貨物{}
+STR_DESC_USAGE_FRT_CONT	:{BLACK}用途： {SILVER} 一般 / 快遞貨物 - 貨櫃 {}
+STR_DESC_USAGE_FRT_BOX	:{BLACK}用途： {SILVER} 一般 / 快遞貨物 {}
+STR_DESC_USAGE_FRT_FLAT	:{BLACK}用途： {SILVER} 一般 / 長貨 {}
+STR_DESC_USAGE_FRT_EXP	:{BLACK}用途： {SILVER} 快遞貨物 {}
+STR_DESC_USAGE_FRT_LVST	:{BLACK}用途： {SILVER} 家畜 - {GREEN}延長貨物時效 {}
+STR_DESC_USAGE_FRT_REEF	:{BLACK}用途： {SILVER} 冷藏貨物 - {GREEN}延長貨物時效 {}
+STR_DESC_USAGE_FRT_OPEN	:{BLACK}用途： {SILVER} 一般 / 散裝貨 {}
+STR_DESC_USAGE_FRT_BULK	:{BLACK}用途： {SILVER} 散裝貨 {}
+STR_DESC_USAGE_FRT_COV	:{BLACK}用途： {SILVER} 粉狀散裝貨物 {}
 
-STR_DESC_USAGE_FRT_COAL	:{BLACK}用途: {SILVER}散裝貨 - 煤炭{}
-STR_DESC_USAGE_FRT_STON	:{BLACK}用途: {SILVER}散裝貨 - 鎮流器{}
-STR_DESC_USAGE_FRT_LMST	:{BLACK}用途: {SILVER}散裝貨 - 石灰岩{}
-STR_DESC_USAGE_FRT_CMNT	:{BLACK}用途: {SILVER}粉狀散裝貨物 - 水泥{}
-STR_DESC_USAGE_FRT_QLME	:{BLACK}用途: {SILVER}粉狀散裝貨物 - 生石灰{}
-STR_DESC_USAGE_FRT_GRAI	:{BLACK}用途: {SILVER}粉狀散裝貨物 - 穀物{}
-STR_DESC_USAGE_FRT_CHIP	:{BLACK}用途: {SILVER}輕量散貨 - 纖維 / 木片{}
+STR_DESC_USAGE_FRT_COAL	:{BLACK}用途： {SILVER} 散裝貨 - 煤炭 {}
+STR_DESC_USAGE_FRT_STON	:{BLACK}用途： {SILVER} 散裝貨 - 鎮流器 {}
+STR_DESC_USAGE_FRT_LMST	:{BLACK}用途： {SILVER} 散裝貨 - 石灰岩 {}
+STR_DESC_USAGE_FRT_CMNT	:{BLACK}用途： {SILVER} 粉狀散裝貨物 - 水泥 {}
+STR_DESC_USAGE_FRT_QLME	:{BLACK}用途： {SILVER} 粉狀散裝貨物 - 生石灰 {}
+STR_DESC_USAGE_FRT_GRAI	:{BLACK}用途： {SILVER} 粉狀散裝貨物 - 穀物 {}
+STR_DESC_USAGE_FRT_CHIP	:{BLACK}用途： {SILVER} 輕量散貨 - 纖維 / 木片 {}
 
-STR_DESC_USAGE_FRT_TANK	:{BLACK}用途: {SILVER}一般液體貨物{}
-STR_DESC_USAGE_FRT_OIL	:{BLACK}用途: {SILVER}一般液體貨物 - 燃料 / 油{}
-STR_DESC_USAGE_FRT_CHEM	:{BLACK}用途: {SILVER}危險液體貨物 - 酸性 / 氯{}
-STR_DESC_USAGE_FRT_GAS	:{BLACK}用途: {SILVER}氣態貨物 - 氨 / 液化石油氣{}
+STR_DESC_USAGE_FRT_TANK	:{BLACK}用途： {SILVER} 一般液體貨物 {}
+STR_DESC_USAGE_FRT_OIL	:{BLACK}用途： {SILVER} 一般液體貨物 - 燃料 / 油 {}
+STR_DESC_USAGE_FRT_CHEM	:{BLACK}用途： {SILVER} 危險液體貨物 - 酸性 / 氯 {}
+STR_DESC_USAGE_FRT_GAS	:{BLACK}用途： {SILVER} 氣態貨物 - 氨 / 液化石油氣 {}
 
-STR_DESC_BRAKE		:{BLACK}用途: {SILVER}制動車(守車) - {GREEN}掛在貨車的尾部增加額外的制動能力{}
+STR_DESC_BRAKE		:{BLACK}用途： {SILVER} 制動車(守車) - {GREEN} 掛在貨車的尾部增加額外的制動能力 {}
 
-STR_DESC_BRAKE_NA	:{BLACK}制動助力器: {RED}無法使用{}
+STR_DESC_BRAKE_NA	:{BLACK}守車制動助力器： {RED} 無法使用 {}
