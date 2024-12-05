@@ -5,68 +5,68 @@
 
 # GRF名稱及描述定義
 STR_TWTS_NAME        :{TITLE} {PUSH_COLOUR}{WHITE}{VERSION}{POP_COLOUR}
-STR_TWTS_DESCRIPTION :台灣火車套裝(Taiwan Trains Set){}{COPYRIGHT}2024 TeamTWTS{}License: GPL v3
+STR_TWTS_DESCRIPTION :台灣火車套裝{}{COPYRIGHT}2024 TeamTWTS{}License: GPL v3
 
 # 車輛名稱
-STR_NAME_E100                 :台鐵E100型電聯車
-STR_NAME_E200                 :台鐵E200/E300/E400型電聯車
-STR_NAME_E500                 :台鐵E500型電力機車
-STR_NAME_E1000                :台鐵E1000型推拉式電力機車
-STR_NAME_TP32200              :台鐵TP32200/850型鋼體客車
-STR_NAME_SP32850              :台鐵SP32850/950/600型鋼體客車
-STR_NAME_SP32800              :台鐵SP32700/750/800型坐臥兩用椅客車
-STR_NAME_TP32800              :台鐵TP32700/770/800型通勤客車
-STR_NAME_SP32400              :台鐵SP32400型鋼體客車
-STR_NAME_SP32550              :台鐵SP32550/600/700型鋼體客車
-STR_NAME_SP2300               :台鐵SP2300型鋼體客車
-STR_NAME_PBK32800             :台鐵PBK32800型電源行李車
-STR_NAME_PBK32850             :台鐵PBK32850/600型電源行李車
-STR_NAME_PBK10400             :台鐵PBK10400型電源行李車
-STR_NAME_PBK10500             :台鐵PBK10500型電源行李車
-STR_NAME_FPK10000             :台鐵FPK10000型鋼體客車
-STR_NAME_FPK10100             :台鐵FPK10100/1000型鋼體客車
-STR_NAME_FPK10200             :台鐵FPK10200型鋼體客車
-STR_NAME_FPK10400             :台鐵FPK10400型鋼體客車
-STR_NAME_FPK10500             :台鐵FPK10500型鋼體客車
-STR_NAME_FPK10600             :台鐵FPK10600型鋼體客車
-STR_NAME_DHL100               :台鐵DHL100型柴液機車
-STR_NAME_R20                  :台鐵R20型柴電機車
-STR_NAME_R50                  :台鐵R50型柴電機車
-STR_NAME_R100                 :台鐵R100/150型柴電機車
-STR_NAME_R180                 :台鐵R180/190型柴電機車
-STR_NAME_R200                 :台鐵R200型柴電機車
-STR_NAME_45DR1000             :台鐵DR1000型柴油客車(初代)
-STR_NAME_DR2000               :台鐵DR2000型柴油客車
-STR_NAME_DR2100               :台鐵DR2100~2400型柴油客車
-STR_NAME_DR2500               :台鐵DR2500/2600型柴油車
-STR_NAME_DR2700               :台鐵DR2700型柴油車
-STR_NAME_DR2800               :台鐵DR2800型柴聯車
-STR_NAME_DR2900               :台鐵DR2900/3000型柴聯車
-STR_NAME_DR3100               :台鐵DR3100型柴聯車
-STR_NAME_EMU100               :台鐵EMU100型電聯車
-STR_NAME_EMU200               :台鐵EMU200型電聯車
-STR_NAME_EMU1200              :台鐵EMU1200型電聯車
-STR_NAME_EMU300               :台鐵EMU300型電聯車
-STR_NAME_EMU400               :台鐵EMU400型電聯車
-STR_NAME_EMU500               :台鐵EMU500型電聯車
-STR_NAME_EMU600               :台鐵EMU600型電聯車
-STR_NAME_EMU700               :台鐵EMU700型電聯車
-STR_NAME_EMU800               :台鐵EMU800型電聯車
-STR_NAME_EMU900               :台鐵EMU900型電聯車
-STR_NAME_TEMU1000             :台鐵TEMU1000型電聯車
-STR_NAME_TEMU2000             :台鐵TEMU2000型電聯車
-STR_NAME_EMU3000              :台鐵EMU3000型電聯車
-STR_NAME_TRMUCAR              :TR型電聯車
-STR_NAME_PPCAR                :TR型推拉式列車
+STR_NAME_E100                 :E100型電聯車
+STR_NAME_E200                 :E200/E300/E400型電聯車
+STR_NAME_E500                 :E500型電力機車
+STR_NAME_E1000                :E1000型推拉式電力機車
+STR_NAME_TP32200              :TP32200/850型鋼體客車
+STR_NAME_SP32850              :SP32850/950/600型鋼體客車
+STR_NAME_SP32800              :SP32700/750/800型坐臥兩用椅客車
+STR_NAME_TP32800              :TP32700/770/800型通勤客車
+STR_NAME_SP32400              :SP32400型鋼體客車
+STR_NAME_SP32550              :SP32550/600/700型鋼體客車
+STR_NAME_SP2300               :SP2300型鋼體客車
+STR_NAME_PBK32800             :PBK32800型電源行李車
+STR_NAME_PBK32850             :PBK32850/600型電源行李車
+STR_NAME_PBK10400             :PBK10400型電源行李車
+STR_NAME_PBK10500             :PBK10500型電源行李車
+STR_NAME_FPK10000             :FPK10000型鋼體客車
+STR_NAME_FPK10100             :FPK10100/1000型鋼體客車
+STR_NAME_FPK10200             :FPK10200型鋼體客車
+STR_NAME_FPK10400             :FPK10400型鋼體客車
+STR_NAME_FPK10500             :FPK10500型鋼體客車
+STR_NAME_FPK10600             :FPK10600型鋼體客車
+STR_NAME_DHL100               :DHL100型柴液機車
+STR_NAME_R20                  :R20型柴電機車
+STR_NAME_R50                  :R50型柴電機車
+STR_NAME_R100                 :R100/150型柴電機車
+STR_NAME_R180                 :R180/190型柴電機車
+STR_NAME_R200                 :R200型柴電機車
+STR_NAME_45DR1000             :DR1000型柴油客車(初代)
+STR_NAME_DR2000               :DR2000型柴油客車
+STR_NAME_DR2100               :DR2100~2400型柴油車
+STR_NAME_DR2500               :DR2500/2600型柴油車
+STR_NAME_DR2700               :DR2700型柴油車
+STR_NAME_DR2800               :DR2800型柴聯車
+STR_NAME_DR2900               :DR2900/3000型柴聯車
+STR_NAME_DR3100               :DR3100型柴聯車
+STR_NAME_EMU100               :EMU100型電聯車
+STR_NAME_EMU200               :EMU200型電聯車
+STR_NAME_EMU1200              :EMU1200型電聯車
+STR_NAME_EMU300               :EMU300型電聯車
+STR_NAME_EMU400               :EMU400型電聯車
+STR_NAME_EMU500               :EMU500型電聯車
+STR_NAME_EMU600               :EMU600型電聯車
+STR_NAME_EMU700               :EMU700型電聯車
+STR_NAME_EMU800               :EMU800型電聯車
+STR_NAME_EMU900               :EMU900型電聯車
+STR_NAME_TEMU1000             :TEMU1000型電聯車
+STR_NAME_TEMU2000             :TEMU2000型電聯車
+STR_NAME_EMU3000              :EMU3000型電聯車
+STR_NAME_TRMUCAR              :TR 動力分散式列車
+STR_NAME_PPCAR                :TR 推拉式列車
 
 
 STR_DOOR_MANUAL             : 手動折疊門
 STR_DOOR_AUTOMATIC          : 自動滑動門
 
-STR_LENGTH_ERROR            : 添加更多車廂！ 添加更多 TR型電聯車 (車廂選單) 至少到一定的長度。
-STR_UNIT_ERROR              : 列車長度無效！ 添加或移除 TR型電聯車 (車廂選單) 至少到一定的長度。
-STR_MUCAR_ERROR             : 此列車只能接駁 TR型電聯車。
-STR_PPCAR_ERROR             : 此列車只能接駁 TR型推拉式列車。
+STR_LENGTH_ERROR            : 添加更多車廂！ 添加更多 TR 動力分散式列車 (車廂選單) 至少到一定的長度。
+STR_UNIT_ERROR              : 列車長度無效！ 添加或移除 TR 動力分散式列車 (車廂選單) 至少到一定的長度。
+STR_MUCAR_ERROR             : 此列車只能接駁 TR 動力分散式列車。
+STR_PPCAR_ERROR             : 此列車只能接駁 TR 推拉式列車。
 
 STR_PARAM_NAME_SPRITELENGTH : Sprite length(拼合圖長度)
 STR_PARAM_DESC_SPRITELENGTH : 12/8 或 10/8 新幹線客車
@@ -74,24 +74,24 @@ STR_PARAM_DESC_SPRITELENGTH : 12/8 或 10/8 新幹線客車
 STR_PARAM_LENGTH_12         : 12/8
 STR_PARAM_LENGTH_10         : 10/8
 
-STR_EMU500_DESC : 台鐵 EMU500 通勤型電聯車
-TRMUCAR_DESC : {BLUE}用來表示 {GREEN} 機車及拖車 {BLUE} 在機車編組內。 {}{RED}不能位於機車編組的後方。
+STR_EMU500_DESC : EMU500 通勤型電聯車
+TRMUCAR_DESC : {BLUE}用來代表 {GREEN} 機車及拖車 {BLUE} 在機車編組內。 {}{RED}不能位於機車編組的後方。
 
 # The {P "" s} here is only for the English language file; P stands for plural
 # It varys in other languages. Say, there is no need for them in the Chinese / Japanese langauge files.
 # Basically, when the value of {COMMA} not 0, it will be replaced by "s", otherwise, it will be replaced by "".
 
-STR_TRLENGTH_1T    :{BLACK}有效編組: {PUSH_COLOUR}{GOLD}{COMMA} 列車廂{}{POP_COLOUR}
-STR_TRLENGTH_2T    :{BLACK}有效編組: {PUSH_COLOUR}{GOLD}{COMMA}/{COMMA} 列車廂{}{POP_COLOUR}
-STR_TRLENGTH_3T    :{BLACK}有效編組: {PUSH_COLOUR}{GOLD}{COMMA}/{COMMA}/{COMMA} 列車廂{}{POP_COLOUR}
-STR_TRLENGTH_4T    :{BLACK}有效編組: {PUSH_COLOUR}{GOLD}{COMMA}/{COMMA}/{COMMA}/{COMMA} 列車廂{}{POP_COLOUR}
-STR_TRLENGTH_5T    :{BLACK}有效編組: {PUSH_COLOUR}{GOLD}{COMMA}/{COMMA}/{COMMA}/{COMMA}/{COMMA} 列車廂{}{POP_COLOUR}
-STR_TRLENGTH_6T    :{BLACK}有效編組: {PUSH_COLOUR}{GOLD}{COMMA}/{COMMA}/{COMMA}/{COMMA}/{COMMA}/{COMMA} 列車廂{}{POP_COLOUR}
-STR_TRLENGTH_RANGE :{BLACK}有效編組: {PUSH_COLOUR}{GOLD}{COMMA}-{COMMA} 列車廂{}{POP_COLOUR}
+STR_TRLENGTH_1T    :{BLACK}有效編組： {PUSH_COLOUR}{GOLD}{COMMA} 列車廂{}{POP_COLOUR}
+STR_TRLENGTH_2T    :{BLACK}有效編組： {PUSH_COLOUR}{GOLD}{COMMA}/{COMMA} 列車廂{}{POP_COLOUR}
+STR_TRLENGTH_3T    :{BLACK}有效編組： {PUSH_COLOUR}{GOLD}{COMMA}/{COMMA}/{COMMA} 列車廂{}{POP_COLOUR}
+STR_TRLENGTH_4T    :{BLACK}有效編組： {PUSH_COLOUR}{GOLD}{COMMA}/{COMMA}/{COMMA}/{COMMA} 列車廂{}{POP_COLOUR}
+STR_TRLENGTH_5T    :{BLACK}有效編組： {PUSH_COLOUR}{GOLD}{COMMA}/{COMMA}/{COMMA}/{COMMA}/{COMMA} 列車廂{}{POP_COLOUR}
+STR_TRLENGTH_6T    :{BLACK}有效編組： {PUSH_COLOUR}{GOLD}{COMMA}/{COMMA}/{COMMA}/{COMMA}/{COMMA}/{COMMA} 列車廂{}{POP_COLOUR}
+STR_TRLENGTH_RANGE :{BLACK}有效編組： {PUSH_COLOUR}{GOLD}{COMMA}-{COMMA} 列車廂{}{POP_COLOUR}
 
 # #####################
 # 連接子字串           #
-# 標準, 無空格, 運算符 #
+# 標準, 無空格, 營運商 #
 # #####################
 
 STR_CONCAT_2	: {STRING} {STRING}
@@ -102,12 +102,12 @@ STR_CONCAT_3S	:{STRING}{STRING}{STRING}
 STR_CONCAT_4S	:{STRING}{STRING}{STRING}{STRING}
 STR_CONCAT_5S	:{STRING}{STRING}{STRING}{STRING}{STRING}
 
-STR_CONCAT_1C	:{BLACK}運算符: {STRING}{}
-STR_CONCAT_2C	:{BLACK}運算符: {STRING} / {STRING}{}
-STR_CONCAT_3C	:{BLACK}運算符: {STRING} / {STRING} / {STRING}{}
-STR_CONCAT_4C	:{BLACK}運算符: {STRING} / {STRING} / {STRING} / {STRING}{}
-STR_CONCAT_5C	:{BLACK}運算符: {STRING} / {STRING} / {STRING} / {STRING} / {STRING}{}
-STR_CONCAT_6C	:{BLACK}運算符: {STRING} / {STRING} / {STRING} / {STRING} / {STRING} / {STRING}{}
+STR_CONCAT_1C	:{BLACK}營運商： {STRING}{}
+STR_CONCAT_2C	:{BLACK}營運商： {STRING} / {STRING}{}
+STR_CONCAT_3C	:{BLACK}營運商： {STRING} / {STRING} / {STRING}{}
+STR_CONCAT_4C	:{BLACK}營運商： {STRING} / {STRING} / {STRING} / {STRING}{}
+STR_CONCAT_5C	:{BLACK}營運商： {STRING} / {STRING} / {STRING} / {STRING} / {STRING}{}
+STR_CONCAT_6C	:{BLACK}營運商： {STRING} / {STRING} / {STRING} / {STRING} / {STRING} / {STRING}{}
 
 STR_CONCAT_1F	:{BLACK} - {STRING}
 STR_CONCAT_2F	:{BLACK} - {STRING}{BLACK} / {STRING}
@@ -118,8 +118,8 @@ STR_CONCAT_4F	:{BLACK} - {STRING}{BLACK} / {STRING}{BLACK} / {STRING}{BLACK} / {
 #################
 # 模組化顏色後綴 #
 #################
-STR_COLOUR_WHITE			:{WHITE}白色
-STR_COLOUR_BLACK			:{BLACK}黑色
+STR_COLOUR_WHITE      :{WHITE}白色
+STR_COLOUR_BLACK      :{BLACK}黑色
 STR_COLOUR_GOLD 			:{GOLD}金色
 STR_COLOUR_SILVER			:{SILVER}銀色
 STR_COLOUR_GREY			  :{SILVER}灰色
@@ -137,14 +137,14 @@ STR_COLOUR_YELLOW			:{YELLOW}黃色
 STR_COLOUR_PURPLE			:{PURPLE}紫色
 STR_COLOUR_NVBLUE			:{BLUE}軍藍色
 
-STR_SUFFIX_TRA        :{WHITE}TRA(台鐵局)
+STR_SUFFIX_TRA        :{WHITE}TRA 台鐵局
 
 # 命名列車
 
 STR_SUFFIX_ORDINARY         :{GOLD}"普快車"{BLACK}
 STR_SUFFIX_BREEZYBLUE       :{GOLD}"藍皮解憂號觀光列車"{BLACK}
 STR_SUFFIX_EXPRESS          :{GOLD}"特快列車"{BLACK}
-STR_SUFFIX_ENGINEER_SLEEPER :{GOLD}"工程人員臥鋪列車"{BLACK}
+STR_SUFFIX_ENGINEER_SLEEPER :{GOLD}"工程宿營車"{BLACK}
 STR_SUFFIX_KUANKUANG        :{GOLD}"觀光號"{BLACK}
 STR_SUFFIX_CHUKUANG         :{GOLD}"莒光號"{BLACK}
 STR_SUFFIX_FUHSING          :{GOLD}"復興號"{BLACK}
@@ -155,9 +155,9 @@ STR_SUFFIX_HAIFUNG          :{GOLD}"海風號觀光列車"{BLACK}
 STR_SUFFIX_SHANLAN          :{GOLD}"山嵐號觀光列車"{BLACK}
 STR_SUFFIX_TOUR             :{GOLD}"觀光列車"{BLACK}
 
-#####################
+###############
 # 新模組化字串 #
-#####################
+###############
 
 STR_SUFFIX_YEARDEP	:{GREEN}年份相關{BLACK}
 STR_SUFFIX_RANDOM	  :{GREEN}隨機{BLACK}
@@ -176,9 +176,9 @@ STR_REFIT_RANDYEAR	: {GREEN}隨機 {BLACK} -  年份相關
 
 STR_REFIT_YEARFORM	: {GREEN}自動編組 {BLACK} -  年份相關
 
-# ####################
+# ##########
 # 描述文字 #
-# ####################
+# ##########
 
 STR_DESC_POWER_STEAM 		  :{BLACK}發動機類型: {GOLD}蒸氣{}
 STR_DESC_POWER_DE 		    :{BLACK}發動機類型: {GOLD}柴油電力傳動{}
