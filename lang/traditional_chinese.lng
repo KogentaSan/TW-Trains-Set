@@ -239,7 +239,7 @@ STR_DESC_USAGE_FRT_CONT	:{BLACK}用途： {SILVER} 一般 / 快遞貨物 - 貨�
 STR_DESC_USAGE_FRT_BOX	:{BLACK}用途： {SILVER} 一般 / 快遞貨物 {}
 STR_DESC_USAGE_FRT_FLAT	:{BLACK}用途： {SILVER} 一般 / 長貨 {}
 STR_DESC_USAGE_FRT_EXP	:{BLACK}用途： {SILVER} 快遞貨物 {}
-STR_DESC_USAGE_FRT_LVST	:{BLACK}用途： {SILVER} 家畜 - {GREEN}延長貨物時效 {}
+STR_DESC_USAGE_FRT_LVST	:{BLACK}用途： {SILVER} 牲畜 - {GREEN}延長貨物時效 {}
 STR_DESC_USAGE_FRT_REEF	:{BLACK}用途： {SILVER} 冷藏貨物 - {GREEN}延長貨物時效 {}
 STR_DESC_USAGE_FRT_OPEN	:{BLACK}用途： {SILVER} 一般 / 散裝貨 {}
 STR_DESC_USAGE_FRT_BULK	:{BLACK}用途： {SILVER} 散裝貨 {}
@@ -258,6 +258,6 @@ STR_DESC_USAGE_FRT_OIL	:{BLACK}用途： {SILVER} 一般液體貨物 - 燃料 / 
 STR_DESC_USAGE_FRT_CHEM	:{BLACK}用途： {SILVER} 危險液體貨物 - 酸性 / 氯 {}
 STR_DESC_USAGE_FRT_GAS	:{BLACK}用途： {SILVER} 氣態貨物 - 氨 / 液化石油氣 {}
 
-STR_DESC_BRAKE		:{BLACK}用途： {SILVER} 制動車(守車) - {GREEN} 掛在貨車的尾部增加額外的制動能力 {}
+STR_DESC_BRAKE		:{BLACK}用途： {SILVER} 守車 - {GREEN} 連接到較低速度上限的車廂後以提升速度 {}
 
-STR_DESC_BRAKE_NA	:{BLACK}守車制動助力器： {RED} 無法使用 {}
+STR_DESC_BRAKE_NA	:{BLACK}守車速度提升： {RED} 無法使用 {}
